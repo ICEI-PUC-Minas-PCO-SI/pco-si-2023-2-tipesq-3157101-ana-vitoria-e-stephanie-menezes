@@ -4,13 +4,12 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
+* Ana Vitoria Araujo de Souza
+* Stephanie Menezes Cardozo
 
 ## Professores responsáveis
 
-* Nome do orientador de conteúdo
-* Nome do orientador de acadêmico 
+* Lesandro Ponciano dos Santos 
 
 ## Instruções de Replicação/Reprodução
 
