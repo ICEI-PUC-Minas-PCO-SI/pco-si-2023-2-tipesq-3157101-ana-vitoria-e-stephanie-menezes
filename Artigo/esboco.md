@@ -19,12 +19,12 @@ Os objetivos específicos são:
 
 Para atingir os objetivos estabelecidos, a pesquisa utilizará uma abordagem multidisciplinar, combinando revisões bibliográficas, análise de casos de estudo e experimentos práticos. Serão coletados dados de várias fontes, incluindo dados climáticos e informações sobre espécies. A análise de custo-benefício e a avaliação de impacto ambiental serão usadas para determinar a eficácia das soluções baseadas em IA na conservação da biodiversidade.
 
-Revisão sistemática da literatura: será realizado um levantamento de artigos científicos, publicações em conferências e relatórios técnicos sobre o tema em bases de dados como IEEE, Google Scholar e ACM. Serão selecionados estudos relevantes que abordem a aplicação da IA na conservação da biodiversidade.
+* Revisão sistemática da literatura: será realizado um levantamento de artigos científicos, publicações em conferências e relatórios técnicos sobre o tema em bases de dados como IEEE, Google Scholar e ACM. Serão selecionados estudos relevantes que abordem a aplicação da IA na conservação da biodiversidade.
 
-Análise dos estudos selecionados: será realizado um mapeamento dos estudos selecionados para identificar as principais aplicações da IA na conservação da biodiversidade e os resultados obtidos. Serão analisados os métodos utilizados, as limitações e os benefícios encontrados.
+* Análise dos estudos selecionados: será realizado um mapeamento dos estudos selecionados para identificar as principais aplicações da IA na conservação da biodiversidade e os resultados obtidos. Serão analisados os métodos utilizados, as limitações e os benefícios encontrados.
 
-Tabulação dos resultados: os resultados serão tabulados para identificar as principais aplicações da IA na conservação da biodiversidade, bem como suas vantagens e desafios.
+* Tabulação dos resultados: os resultados serão tabulados para identificar as principais aplicações da IA na conservação da biodiversidade, bem como suas vantagens e desafios.
 
-Elaboração de recomendações: com base nos resultados obtidos, serão propostas recomendações para a implementação efetiva da IA na conservação da biodiversidade, considerando os aspectos éticos, legais e práticos.
+* Elaboração de recomendações: com base nos resultados obtidos, serão propostas recomendações para a implementação efetiva da IA na conservação da biodiversidade, considerando os aspectos éticos, legais e práticos.
 
 Ao final da pesquisa, espera-se identificar as melhores práticas, desafios e oportunidades no uso da inteligência artificial para a conservação da biodiversidade, contribuindo para a proteção de ecossistemas naturais em todo o mundo.
