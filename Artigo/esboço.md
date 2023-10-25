@@ -14,6 +14,7 @@ Os objetivos específicos são:
 2. Identificar as principais aplicações da IA na conservação da biodiversidade, como a identificação de espécies, o monitoramento de animais e a previsão de mudanças ambientais;
 3. Analisar os benefícios e desafios do uso da IA na conservação da biodiversidade;
 4. Propor recomendações para a implementação efetiva da IA na conservação da biodiversidade.
+5. Investigar as contribuições da inteligência artificial para a conservação da biodiversidade, como prevenção de crimes ambientais, monitoramento de espécies ameaçadas, entre outros.
    
 # Metodologia
 
