@@ -17,7 +17,7 @@ Os objetivos específicos são:
    
 # Metodologia
 
-Para atingir os objetivos estabelecidos, a pesquisa utilizará uma abordagem multidisciplinar, combinando revisões bibliográficas, análise de casos de estudo e experimentos práticos. Serão coletados dados de várias fontes, incluindo dados climáticos e informações sobre espécies. A pesquisa também envolverá a colaboração com organizações de conservação e instituições acadêmicas envolvidas em projetos de campo. Serão conduzidas entrevistas e questionários com especialistas em conservação e cientistas de dados. A análise de custo-benefício e a avaliação de impacto ambiental serão usadas para determinar a eficácia das soluções baseadas em IA na conservação da biodiversidade.
+Para atingir os objetivos estabelecidos, a pesquisa utilizará uma abordagens qualitativas, combinando revisões bibliográficas, análise de casos de estudo e experimentos práticos . Serão coletados dados de várias fontes, incluindo dados climáticos e informações sobre espécies. A pesquisa também envolverá a colaboração com organizações de conservação e instituições acadêmicas envolvidas em projetos de campo, serão conduzidas entrevistas e questionários com especialistas em conservação e cientistas de dados. A análise de custo-benefício e a avaliação de impacto ambiental serão usadas para determinar a eficácia das soluções baseadas em IA na conservação da biodiversidade.
 
 * _Revisão sistemática da literatura: será realizado um levantamento de artigos científicos, publicações em conferências e relatórios técnicos sobre o tema em bases de dados como IEEE, Google Scholar e ACM. Serão selecionados estudos relevantes que abordem a aplicação da IA na conservação da biodiversidade._
 
