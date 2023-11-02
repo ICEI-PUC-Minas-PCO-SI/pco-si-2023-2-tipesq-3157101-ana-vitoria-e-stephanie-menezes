@@ -10,8 +10,7 @@ Analisar como a aplicação de técnicas específicas de inteligência artificia
 # Objetivos específicos
 Os objetivos específicos são:
 
-1. Realizar uma revisão sistemática da literatura sobre o uso de técnicas de inteligência artificial na conservação da biodiversidade;
-2. Identificar as principais aplicações da inteligência artificial na conservação da biodiversidade, como a identificação de espécies, o monitoramento de animais e a previsão de mudanças ambientais, utilizando técnicas específicas de IA, como deep learning, redes neurais, LLM, entre outras;
+1. Identificar as principais aplicações da inteligência artificial na conservação da biodiversidade, como a identificação de espécies, o monitoramento de animais e a previsão de mudanças ambientais, utilizando técnicas específicas de IA, como deep learning, redes neurais, LLM, entre outras;
 3. Analisar os benefícios e desafios do uso de técnicas de inteligência artificial na conservação da biodiversidade, considerando fatores como a eficácia, os aspectos éticos e legais, bem como as limitações tecnológicas;
 4. Propor recomendações para a implementação efetiva de técnicas de inteligência artificial na conservação da biodiversidade, levando em consideração as melhores práticas identificadas e as necessidades específicas de organizações de conservação e instituições acadêmicas;
 5. Investigar as contribuições da inteligência artificial para a conservação da biodiversidade, como prevenção de crimes ambientais, monitoramento de espécies ameaçadas, entre outros, por meio de pesquisa empírica que inclui entrevistas e questionários com especialistas em conservação e cientistas de dados.
