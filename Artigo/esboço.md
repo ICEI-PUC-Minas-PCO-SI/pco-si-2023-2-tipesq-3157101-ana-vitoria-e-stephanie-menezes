@@ -17,13 +17,11 @@ Os objetivos específicos são:
    
 # Metodologia
 
-Para atingir os objetivos estabelecidos, a pesquisa utilizará uma abordagem qualitativa, combinando revisões bibliográficas, análise de casos de estudo e experimentos práticos. Serão coletados dados de várias fontes, incluindo dados climáticos e informações sobre espécies. A pesquisa também envolverá a colaboração com organizações de conservação e instituições acadêmicas envolvidas em projetos de campo. Serão conduzidas entrevistas e questionários com especialistas em conservação e cientistas de dados, cujos nomes serão especificados na fase de execução da pesquisa.
+Para atingir os objetivos estabelecidos, a pesquisa utilizará uma abordagem qualitativa. Serão coletados dados de várias fontes, incluindo dados climáticos e informações sobre espécies. A pesquisa também envolverá a colaboração com organizações de conservação e instituições acadêmicas envolvidas em projetos de campo. Serão conduzidas entrevistas e questionários com especialistas em conservação e cientistas de dados, cujos nomes serão especificados na fase de execução da pesquisa.
 
 A análise de custo-benefício e a avaliação de impacto ambiental serão usadas para determinar a eficácia das soluções baseadas em IA na conservação da biodiversidade. As análises de custo-benefício incluirão a medição dos custos envolvidos na implementação de soluções baseadas em IA e a avaliação dos benefícios esperados, como a conservação de espécies e ecossistemas. A avaliação de impacto ambiental envolverá a medição e análise dos efeitos positivos ou negativos resultantes da implementação dessas soluções.
 
 A pesquisa seguirá as etapas a seguir:
-
-1. Revisão sistemática da literatura: será realizado um levantamento de artigos científicos, publicações em conferências e relatórios técnicos sobre o uso de técnicas de inteligência artificial na conservação da biodiversidade em bases de dados como IEEE, Google Scholar e ACM. Serão selecionados estudos relevantes que abordem a aplicação de técnicas específicas de IA na conservação da biodiversidade.
 
 2. Análise dos estudos selecionados: será realizado um mapeamento dos estudos selecionados para identificar as principais aplicações das técnicas de inteligência artificial na conservação da biodiversidade e os resultados obtidos. Serão analisados os métodos utilizados, as limitações e os benefícios encontrados.
 
