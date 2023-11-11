@@ -1,7 +1,7 @@
 # Título do trabalho
 
-1. Nome do aluno 1
-1. Nome do aluno 2 (se houver)
+1. Ana Vitória Araújo de Souza
+2. Stephanie Menezes Cardoso
 
 * Nome do orientador de conteúdo
 * Nome do orientador acadêmico
