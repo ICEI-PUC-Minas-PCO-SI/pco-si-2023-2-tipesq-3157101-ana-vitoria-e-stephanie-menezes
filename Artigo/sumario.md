@@ -7,12 +7,17 @@
 
 ## Introdução
 
-1. A área da Engenharia de Software tratada neste trabalho é.... _[incluir a frase exatamente como ela aparece no seu projeto]_
-1. O problema que este trabalho busca resolver nessa área é... _[incluir a frase exatamente como ela aparece no seu projeto]_
-1. Resolver este problema é relevante por que...
-1. O objetivo geral deste trabalho é _[incluir a frase exatamente como ela aparece no seu projeto]_
-1. Os *três* objetivos específicos deste trabalho são _[incluir exatamente como aparece no seu projeto]_
+A área de Sistemas de Informação tratada neste trabalho é a inteligência artificial (IA). O problema que este trabalho busca resolver nessa área é como a aplicação da IA pode contribuir para a conservação da biodiversidade, fornecendo mecanismos de previsão, monitoramento e intervenção baseados em dados precisos e em tempo real, diante dos sérios desafios enfrentados, como a extinção de espécies, a manipulação dos ecossistemas e a perda de habitat, resultando das atividades humanas. Resolver este problema é relevante para que se possa preservar a riqueza e a diversidade da vida no planeta, bem como os serviços ecossistêmicos que sustentam o bem-estar humano. O objetivo geral deste trabalho é analisar como a aplicação de técnicas específicas de inteligência artificial, como o deep learning, pode auxiliar na conservação da biodiversidade, fornecendo mecanismos de previsão, monitoramento e intervenção baseados em dados precisos e em tempo real.  
 
+Os quatro objetivos específicos deste trabalho são: 
+
+Identificar as principais aplicações da inteligência artificial na conservação da biodiversidade, como a identificação de espécies, o monitoramento de animais e a previsão de mudanças ambientais, utilizando técnicas específicas de IA, como deep learning; 
+
+Analisar os benefícios e desafios do uso de técnicas de inteligência artificial na conservação da biodiversidade, considerando fatores como eficácia, os aspectos éticos e legais, bem como as limitações tecnológicas; 
+
+Propor recomendações para a implementação eficaz de técnicas de inteligência artificial na conservação da biodiversidade, levando em consideração as melhores práticas indicadas e as necessidades específicas de organizações de conservação e instituições acadêmicas; 
+
+Investigar as contribuições de inteligência artificial para a conservação da biodiversidade, como prevenção de crimes ambientais, monitoramento de espécies ameaçadas, entre outros, por meio de pesquisa empírica que inclui análise de softwares que utilizam IA para a conservação da biodiversidade. 
 ## Fundamentação Teórica
 
 1. O conceito/teoria principal associado a este trabalho é ....  A sua definição neste trabalho  é conforme definido no trabalho .... pelo autor ...
