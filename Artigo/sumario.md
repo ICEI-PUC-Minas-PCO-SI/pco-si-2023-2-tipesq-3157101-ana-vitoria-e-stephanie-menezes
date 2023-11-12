@@ -11,13 +11,13 @@ A área de Sistemas de Informação tratada neste trabalho é a inteligência ar
 
 Os quatro objetivos específicos deste trabalho são: 
 
-*Identificar as principais aplicações da inteligência artificial na conservação da biodiversidade, como a identificação de espécies, o monitoramento de animais e a previsão de mudanças ambientais, utilizando técnicas específicas de IA, como deep learning; 
+* Identificar as principais aplicações da inteligência artificial na conservação da biodiversidade, como a identificação de espécies, o monitoramento de animais e a previsão de mudanças ambientais, utilizando técnicas específicas de IA, como deep learning; 
 
-*Analisar os benefícios e desafios do uso de técnicas de inteligência artificial na conservação da biodiversidade, considerando fatores como eficácia, os aspectos éticos e legais, bem como as limitações tecnológicas; 
+* Analisar os benefícios e desafios do uso de técnicas de inteligência artificial na conservação da biodiversidade, considerando fatores como eficácia, os aspectos éticos e legais, bem como as limitações tecnológicas; 
 
-*Propor recomendações para a implementação eficaz de técnicas de inteligência artificial na conservação da biodiversidade, levando em consideração as melhores práticas indicadas e as necessidades específicas de organizações de conservação e instituições acadêmicas; 
+* Propor recomendações para a implementação eficaz de técnicas de inteligência artificial na conservação da biodiversidade, levando em consideração as melhores práticas indicadas e as necessidades específicas de organizações de conservação e instituições acadêmicas; 
 
-*Investigar as contribuições de inteligência artificial para a conservação da biodiversidade, como prevenção de crimes ambientais, monitoramento de espécies ameaçadas, entre outros, por meio de pesquisa empírica que inclui análise de softwares que utilizam IA para a conservação da biodiversidade. 
+* Investigar as contribuições de inteligência artificial para a conservação da biodiversidade, como prevenção de crimes ambientais, monitoramento de espécies ameaçadas, entre outros, por meio de pesquisa empírica que inclui análise de softwares que utilizam IA para a conservação da biodiversidade. 
 
 ## Fundamentação Teórica
 
