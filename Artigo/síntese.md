@@ -17,9 +17,8 @@ Ao final, almejamos identificar as melhores práticas, desafios e oportunidades 
 
 ## Fundamentação Teórica
 
-1. O conceito/teoria principal associado a este trabalho é ....  A sua definição neste trabalho  é conforme definido no trabalho .... pelo autor ...
-1. O conceito/teoria secundário associado a este trabalho é ....  A sua definição neste trabalho é conforme definido no trabalho .... pelo autor ...
-1. O conceito/teoria terciário associado a este trabalho é ....  A sua definição neste trabalho é conforme definido no trabalho .... pelo autor ...
+1. O conceito/teoria principal associado a este trabalho é a “Aplicação da Inteligência Artificial (IA) na Conservação da Biodiversidade”. A sua definição neste trabalho é conforme definido no trabalho “Significance of Artificial Intelligence in Forest Land Management and Biodiversity Conservation” pelos autores Nurfadhlina Mohd Sharef; Nurul Amelina Nasharuddin; Raihani Mohamed; Nabila Wardah Zamani; Mohd Hafeez Osman; Razali Yaakob.
+2. O conceito/teoria secundário associado a este trabalho é a “Rede Neural na Conservação da Biodiversidade”. A sua definição neste trabalho é conforme definido no trabalho “Leaf Based Plant Species Classification Using Deep Convolutional Neural Network” pelos autores Agus Eko Minarno; Zaidah Ibrahim; Aswaty Nur; Muhammad Yusril Hasanuddin; Norizan Mat Diah; Yuda Munarko.
 
 ## Trabalhos Relacionados
 
