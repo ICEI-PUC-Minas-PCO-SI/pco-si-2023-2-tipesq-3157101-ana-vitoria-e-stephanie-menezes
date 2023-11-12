@@ -7,7 +7,7 @@
 
 ## Introdução
 
-1. O tema deste trabalho é a Aplicação da Inteligência Artificial (IA) na Conservação da Biodiversidade.
+1. A área de Sistemas de Informação tratada neste trabalho é inteligência artificial (IA).
 
 2. O problema que este trabalho busca resolver é como a aplicação da inteligência artificial (IA) pode contribuir para a conservação da biodiversidade, fornecendo mecanismos de previsão, monitoramento e intervenção baseados em dados precisos e em tempo real, diante dos sérios desafios enfrentados, como a extinção de espécies, a degradação dos ecossistemas e a perda de habitat, decorrentes das atividades humanas.
 
