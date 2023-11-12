@@ -36,7 +36,7 @@ Ao final da pesquisa, espera-se identificar as melhores práticas, desafios e op
 
 ## Materiais e Métodos
 
-1. O tipo de pesquisa adotado neste trabalho é qualitativa pois busca 
+1. O tipo de pesquisa adotado neste trabalho é qualitativa pois busca analisar softwares associados à conservação da biodiversidade que fazem uso de IA, em plataformas amplamente utilizadas, como o GitHub, e em fontes acadêmicas especializadas, como IEEE.
 1. Os materiais utilizados neste trabalho são 
 1. Os métodos empregados neste trabalho são o método de análise de dados que consiste em aplicar técnicas estatísticas, matemáticas ou computacionais para explorar, visualizar, modelar e inferir informações a partir de dados qualitativos. Esse método pode ser usado para analisar os dados gerados ou processados pelos softwares de IA, como imagens, sons, localizações, etc., bem como os resultados obtidos pelos softwares, como identificações, classificações, previsões, etc. E também o  método de regressão para identificar possíveis relações entre softwares estudados.
 1. As métricas de avaliação são .... [ex.: tempo de resposta, taxa de erros, mutation score, cobertura, latência, etc]
