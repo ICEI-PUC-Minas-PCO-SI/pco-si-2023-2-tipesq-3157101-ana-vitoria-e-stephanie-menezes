@@ -3,8 +3,7 @@
 1. Ana Vitória Araújo de Souza
 2. Stephanie Menezes Cardoso
 
-* Nome do orientador de conteúdo
-* Nome do orientador acadêmico
+* Lesandro Ponciano dos Santos
 
 ## Introdução
 
