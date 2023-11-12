@@ -1,4 +1,4 @@
-# Título do trabalho
+# Aplicação da Inteligência Artificial (IA) na Conservação da Biodiversidade
 
 1. Ana Vitória Araújo de Souza
 2. Stephanie Menezes Cardoso
