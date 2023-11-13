@@ -16,7 +16,7 @@ Os objetivos específicos são:
 5. Investigar as contribuições da inteligência artificial para a conservação da biodiversidade, como prevenção de crimes ambientais, monitoramento de espécies ameaçadas, entre outros, por meio de pesquisa empírica que inclui análise de softwares que utilizam AI para a conservação da biodiversidade.
    
 # Metodologia
-Para alcançar os objetivos propostos, a pesquisa adotará uma abordagem mais técnica. Em vez de coletar dados de várias fontes e conduzir entrevistas, a pesquisa se concentrará na análise de softwares associados à Conservação da Biodiversidade que utilizam Inteligência Artificial (IA).
+Para alcançar os objetivos propostos, a pesquisa se concentrará na análise de softwares associados à Conservação da Biodiversidade que utilizam Inteligência Artificial (IA).
 
 A busca por esses softwares será realizada em plataformas como o GitHub e em publicações especializadas como o Journal of Open Source Software. A partir de um conjunto de softwares para Conservação da Biodiversidade que utilizam IA, investigaremos como eles usam a IA, quais técnicas são empregadas, para que fins são usadas, entre outros aspectos.
 
