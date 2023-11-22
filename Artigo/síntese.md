@@ -25,8 +25,15 @@ Ao final da pesquisa, espera-se identificar as melhores práticas, desafios e op
 
 ## Fundamentação Teórica
 
-1. O conceito/teoria principal associado a este trabalho é a “Aplicação da Inteligência Artificial (IA) na Conservação da Biodiversidade”. A sua definição neste trabalho é conforme definido no trabalho “Significance of Artificial Intelligence in Forest Land Management and Biodiversity Conservation” pelos autores Nurfadhlina Mohd Sharef; Nurul Amelina Nasharuddin; Raihani Mohamed; Nabila Wardah Zamani; Mohd Hafeez Osman; Razali Yaakob.
-2. O conceito/teoria secundário associado a este trabalho é a “Rede Neural na Conservação da Biodiversidade”. A sua definição neste trabalho é conforme definido no trabalho “Leaf Based Plant Species Classification Using Deep Convolutional Neural Network” pelos autores Agus Eko Minarno; Zaidah Ibrahim; Aswaty Nur; Muhammad Yusril Hasanuddin; Norizan Mat Diah; Yuda Munarko.
+Neste trabalho, serão abordados dois conceitos principais: Inteligência Artificial e Conservação da Biodiversidade.
+
+Inteligência Artificial é a área da ciência da computação que se dedica a criar sistemas e dispositivos que simulam a capacidade humana de raciocinar, perceber, aprender, tomar decisões e resolver problemas. A inteligência artificial pode ser aplicada em diversas áreas, como saúde, educação, segurança, entretenimento e meio ambiente.
+
+Conservação da Biodiversidade é o conjunto de ações voltadas para proteger, preservar e restaurar a diversidade biológica do planeta, incluindo os ecossistemas, as espécies e os genes. A conservação da biodiversidade é essencial para manter o equilíbrio ecológico, os serviços ambientais e o bem-estar humano.
+
+Neste trabalho, será explorada a Aplicação da Inteligência Artificial na Conservação da Biodiversidade, que consiste em utilizar técnicas e ferramentas de inteligência artificial para auxiliar na identificação, monitoramento, análise e gestão da biodiversidade. Segundo Sharef et al. (2023), a inteligência artificial pode contribuir significativamente para a conservação da biodiversidade, especialmente em áreas florestais, onde há uma grande variedade de espécies e uma alta demanda por recursos naturais.
+
+Uma das técnicas de inteligência artificial que será utilizada neste trabalho é a Rede Neural na Conservação da Biodiversidade, que é um tipo de modelo computacional inspirado no funcionamento do cérebro humano, capaz de aprender a partir de dados e realizar tarefas complexas, como reconhecimento de padrões, classificação, regressão e previsão. Neste trabalho, será empregada uma rede neural do tipo Deep Convolutional Neural Network (DCNN), que é uma rede neural especializada em processar imagens e extrair características relevantes para a classificação. A DCNN será aplicada na classificação de espécies de plantas a partir de imagens de folhas, seguindo o método proposto por Minarno et al. (2022).
 
 ## Trabalhos Relacionados
 
